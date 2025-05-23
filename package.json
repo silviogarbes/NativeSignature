@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "react-native-signature-canvas": "^4.3.0",
-    "react-native-webview": "^11.0.3"
+    "react-native-webview": "^11.26.1"
   }
 }
